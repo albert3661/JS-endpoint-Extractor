@@ -20,7 +20,7 @@ A handy **bookmark tool** designed to extract JavaScript endpoints directly from
    - Copy the **bookmarklet script** below:
      ```javascript
      // bookmarklet script here
-     javascript:(function(){/* your JS script */})();
+     in bookmarklet.js file through the repo;
      ```
    - Paste it into the `URL` field of your new bookmark.
      ![Capture d’écran du 2025-01-12 14-52-38](https://github.com/user-attachments/assets/7e5bfd30-679c-48f3-b2f9-2253ddb22f5e)
