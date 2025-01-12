@@ -17,12 +17,13 @@ A handy **bookmark tool** designed to extract JavaScript endpoints directly from
    - Create a new bookmark.
 
 2. **Paste the Script**:
-   - Copy the **bookmarklet script** below:
+   - Copy the **bookmarklet script** in the file bookmarklet script:
      ```javascript
-     // bookmarklet script here
+     
      in bookmarklet.js file through the repo;
      ```
    - Paste it into the `URL` field of your new bookmark.
+     
      ![Capture d’écran du 2025-01-12 14-52-38](https://github.com/user-attachments/assets/7e5bfd30-679c-48f3-b2f9-2253ddb22f5e)
 
 
@@ -35,15 +36,14 @@ A handy **bookmark tool** designed to extract JavaScript endpoints directly from
 
 1. Visit any website where you want to extract JavaScript endpoints.
 2. Click the **JS-Endpoint-Extractor** bookmark.
-3. Voilà! The JavaScript endpoints will be extracted and displayed.
+3. The JavaScript endpoints will be extracted and displayed.
+   
    ![Capture d’écran du 2025-01-12 14-51-29](https://github.com/user-attachments/assets/bf52c025-3d1e-4469-8a8c-e09a6933264b)
 
 
 ---
 
-## 📸 Screenshot (Optional)
 
-_Example of the tool in action:_
 
 ![JS-Endpoint-Extractor Example](https://via.placeholder.com/800x400?text=JS+Endpoint+Extractor)
 
