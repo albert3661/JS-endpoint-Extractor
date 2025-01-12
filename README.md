@@ -45,8 +45,6 @@ A handy **bookmark tool** designed to extract JavaScript endpoints directly from
 
 
 
-![JS-Endpoint-Extractor Example](https://via.placeholder.com/800x400?text=JS+Endpoint+Extractor)
-
 ---
 
 ## 🤝 Contributing
